@@ -7,7 +7,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sabbir20201&theme=dark&border_radius=4.6)](https://git.io/streak-stats)
 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase)](https://skillicons.dev)
 
 ## Current overview
 - 🔭 I’m currently working on **react**
